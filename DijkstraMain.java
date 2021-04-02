@@ -183,3 +183,7 @@ public class DijkstraMain {
  System.out.println("Shortest Path from Jeddah to Najran: "+shortestPath.getShortestPathTo(vertexNajran));
  }
 }
+/* Modification in the code is :
+Add coment to the code in every class 
+Add the vertex and edges 
+*/
